@@ -113,7 +113,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
 
-1. Create a *special* GitHub repository with your username as repository name. My username is `Akash-chowrasia` so my profile readme repository has the name `Mahesh Thatiparthi`.
+1. Create a *special* GitHub repository with your username as repository name. My username is `Mahesh-Thatiparthi` so my profile readme repository has the name `Mahesh Thatiparthi`.
 1. Add a `README.md` to this repository.
 1. Put some cool content about yourself (or anything you want) into `README.md`.
 
